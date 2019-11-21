@@ -35,7 +35,12 @@ $ roslaunch team2_final final.launch
 ```
 $ roslaunch husky_viz view_robot.launch
 ```
+(if you can't seem to view your bot on rviz, then run the following command to make sure desktop packages for Husky are installed and try again) 
+<br>
+```
 
+$ sudo apt-get install ros-kinetic-husky-desktop 
+```
 
 ## NEEDS TO BE UPDATED TO INCLUDE SERVICE, ETC
 
