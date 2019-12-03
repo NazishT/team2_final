@@ -48,7 +48,7 @@ $
   launch A-star
 <br>
 ```
-$
+$ roslaunch husky_navigation move_base_astar_dwa.launch
 ```
   launch computer vision
 <br>
